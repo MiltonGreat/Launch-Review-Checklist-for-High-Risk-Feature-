@@ -8,11 +8,11 @@
 
 This repository contains a complete mock launch review package for a proposed platform feature ("Discovery Feed v2") that introduces personalised recommendations, sponsored posts, and premium subscription promotional cards to UK and EU users.
 
-It demonstrates how a Trust & Safety Regulations Analyst would:
+It demonstrates how a Regulations Analyst would:
 
 1. **Define the proposed launch** and identify the regulatory requirements triggered by the change.
 2. **Build a launch review checklist** mapping each requirement to a review question, a responsible team, and a status.
-3. **Design an approval workflow** that requires sign-off from Legal, Product, Engineering, Trust & Safety, Compliance, and Regulations before production release.
+3. **Design an approval workflow** that requires sign-off from Legal, Product, Engineering, Compliance, and Regulations before production release.
 4. **Produce a one-page status update memo** summarising what has changed, what is required, and what has been delivered.
 
 The goal is not to provide legal interpretation. It is to demonstrate a **repeatable methodology** for regulatory launch review and approval coordination.
@@ -68,7 +68,7 @@ The checklist is grounded in primary regulatory sources, not summaries:
 
 - Regulatory requirement mapping across multiple jurisdictions (EU, UK)
 - Launch review checklist design and evidence tracking
-- Cross-functional approval workflow design (Legal, Product, Engineering, Trust & Safety, Compliance)
+- Cross-functional approval workflow design (Legal, Product, Engineering, Compliance)
 - Status reporting and stakeholder communication
 - Documentation discipline and audit-ready record-keeping
 
@@ -76,7 +76,7 @@ The checklist is grounded in primary regulatory sources, not summaries:
 
 ## How to Use This Repository
 
-This repository is intended as a **portfolio artifact** for Trust & Safety, compliance, and regulatory operations roles. You are welcome to:
+This repository is intended as a **portfolio artifact** for compliance and regulatory operations roles. You are welcome to:
 
 - Review the structure and methodology.
 - Adapt the checklist template for your own launch review processes.
